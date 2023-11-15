@@ -15,7 +15,8 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I am Logan and I am currently a very cool person.
+            Hey I am Logan and I am a double major in Computer Science and Cello. I attended high school also in Colorado
+            and am excited to be here at the University of Colorado Boulder.
           </p>
 
           <a className='button' href='/'>
