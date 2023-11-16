@@ -10,12 +10,12 @@ export default function examplePage() {
           </div>
           <img
             className='pic'
-            src='src/public/Moraine_Lake_17092005.jpg'
+            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
             alt='moraine lake'
           />
 
           <p className='description'>
-            Hey I am Logan and I am a double major in Computer Science and Cello. I attended high school also in Colorado
+            Hey I am Logan and I am a double major in Computer Science and Cello (but also Spider Man). I attended high school also in Colorado
             and am excited to be here at the University of Colorado Boulder. I enjoy the 1000 course and look forward to the rest of the semester!
           </p>
 
