@@ -15,8 +15,8 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I am Kevin and I am a double major in Computer Science and Cello (but also Spider Man). I attended high school also in Colorado
-            and am excited to be here at the University of Colorado Boulder. I enjoy the 1000 course and look forward to the rest of the semester!
+            Hey I am Kevin and I am a double major in Computer Science. I am learning how to play the piano 
+            also my favorite thing to do is to mess around with technology.
           </p>
 
           <a className='button' href='/'>
