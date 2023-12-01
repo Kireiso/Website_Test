@@ -15,7 +15,7 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I am Kevin and I am a double major in Computer Science. I am learning how to play the piano 
+            Hey I am Kevin and I am a majoring in Computer Science. I am learning how to play the piano 
             also my favorite thing to do is to mess around with technology.
           </p>
 
